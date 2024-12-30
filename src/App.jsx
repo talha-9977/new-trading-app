@@ -94,7 +94,7 @@ import Navbar from "./components/NavBar";
 import Footer from "./components/footers";
 import Dashboard from "./Pages/Dashboard";
 import Invest from "./Pages/Invest";
-import Wallet from "./Pages/Wallet";
+import Wallet from "./Pages/wallet";
 import Transactions from "./Pages/Transactions";
 import LoginPage from "./Pages/LoginPage";
 import RegisterPage from "./Pages/Register";
